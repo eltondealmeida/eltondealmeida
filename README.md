@@ -1,5 +1,6 @@
-<div style="font-weight: bold; font-size: 24px;">👋 Hello! Welcome to my Github profile.</div>
+<div style="font-weight: bold; font-size: 30px;">👋 Hello! Welcome to my Github profile.</div>
 
+<br>
 <div style="margin-bottom: 20px;">
 
 Contacts:
@@ -10,6 +11,7 @@ Contacts:
 </div>
 </div>
 
+<br>
 <div>
 Tools and Technologies
 
@@ -24,6 +26,7 @@ Tools and Technologies
 </div>
 </div>
 
+<br>
 <div>
 <a href="https://github.com/eltondealmeida">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltondealmeida&layout=compact&langs_count=7&theme=dracula"/>
