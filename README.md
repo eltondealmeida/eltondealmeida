@@ -31,3 +31,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltondealmeida&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eltondealmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
+[![Total Commits](https://img.shields.io/github/commit-activity/y/eltondealmeida/eltondealmeida?label=Total%20Commits&style=flat-square)](https://github.com/eltondealmeida)
+[![Total Contributions](https://img.shields.io/github/contributors/eltondealmeida/eltondealmeida?label=Total%20Contributions&style=flat-square)](https://github.com/eltondealmeida)
+
