@@ -1,4 +1,5 @@
 **👋 Hello! Welcome to my Github profile.**
+I am a front-end developer with experience in Marketplace and E-commerce development.
 
 <br />
 
@@ -23,7 +24,13 @@
 
 <br />
 
+**My Git Stats:**
 <div align='center'> 
-   <img width="49%" height="200em" src="https://github-readme-stats.vercel.app/api?username=eltondealmeida&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>&nbsp;
-   <img width="49%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltondealmeida&layout=compact&langs_count=16&theme=radical"/>
+   
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eltondealmeida&theme=dark&background=000000)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltondealmeida&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltondealmeida&layout=compact&langs_count=16&theme=radical)
+   
 </div>  
