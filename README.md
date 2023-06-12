@@ -29,8 +29,8 @@ I am a front-end developer with experience in Marketplace and E-commerce develop
    
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eltondealmeida&theme=dark&background=000000)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltondealmeida&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltondealmeida&count_private=true&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltondealmeida&layout=compact&langs_count=16&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltondealmeida&layout=compact)
    
 </div>  
