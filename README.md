@@ -1,5 +1,10 @@
+<div align='center'> 
+   
 **👋 Hello! Welcome to my Github profile.**
-I am a front-end developer with experience in Marketplace and E-commerce development.
+   
+<br /> 
+   
+💻 I am a front-end developer with experience in Marketplace and E-commerce development.
 
 <br />
 
@@ -25,7 +30,6 @@ I am a front-end developer with experience in Marketplace and E-commerce develop
 <br />
 
 **My Git Stats:**
-<div align='center'> 
    
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eltondealmeida&theme=dark&background=000000)
 
